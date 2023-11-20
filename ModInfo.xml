@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+  <ModInfo>
+    <Name value="Medicine Plus"/>
+    <Description value="Increase medicine crafting and usage."/>
+    <Author value="MoreDaysToDie"/>
+    <Version value="0.0.1"/>
+  </ModInfo>
+</xml>
+
