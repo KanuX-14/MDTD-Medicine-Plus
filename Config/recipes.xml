@@ -1,0 +1,13 @@
+<configs>
+  <append xpath="/recipes"/>
+
+    <!-- Create sewing kits -->
+    <recipe name="resourceSewingKit" count="1" craft_time="45">
+      <ingredient name="resourceNail" count="1"/>
+      <ingredient name="resourceCloth" count="60"/>
+      <ingredient name="resourceScrapPolymers" count="5"/>
+    </recipe>
+
+  </append>
+</configs>
+
