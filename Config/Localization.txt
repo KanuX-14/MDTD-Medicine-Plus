@@ -1,0 +1,5 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text
+
+drugUnhealthyHerbalAntibiotics,items,Medical,,,Unhealthy Herbal Antibiotics
+drugUnhealthyHerbalAntibioticsDesc,items,Medical,,,This will hurt a little...
+
