@@ -11,6 +11,8 @@ Most of the crafting can be made with bare hands.
 Installation
 ------------
 
+First download the mod's archive. [[ZIP](https://gitlab.com/moredaystodie/medicine-plus/-/archive/master/medicine-plus-master.zip)/[TAR](https://gitlab.com/moredaystodie/medicine-plus/-/archive/master/medicine-plus-master.tar.gz)]
+
 Move the `medicine-plus-master` folder to 7 Days to Die's mod folder.<br>
 
 - Steam:
