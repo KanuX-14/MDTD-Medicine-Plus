@@ -1,4 +1,6 @@
-<configs>
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<mdtdMedicinePlus>
   <append xpath="/items">
 
     <!-- Unhealthy Herbal Antibiotics -->
@@ -29,5 +31,5 @@
     </item>
 
   </append>
-</configs>
+</mdtdMedicinePlus>
 
